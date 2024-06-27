@@ -9,7 +9,7 @@ Discover, create, and monetize desktop app apps with ease. The Yapp Store connec
 - [Main Website](https://yappstore.ai)
 - [Developer Documentation](https://docs.yappstore.ai)
 - [Developer Portal](https://developer.yappstore.ai)
-- Join the [Waitlist](https://yappstore.ai) for early SDK access.
+- Join the [Waitlist](https://waitlist.yappstore.ai) for early SDK access.
 
 
 ### Socials:
